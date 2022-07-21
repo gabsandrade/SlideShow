@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/97044440/180313697-fdaccdcc-2548-4d76-b13b-e7ffa8131d5f.png)
 <h1>SlideShow</h1>
 > Status: Developing
 
